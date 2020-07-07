@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ## FaceBook
-[Facebook](https://www.facebook.com/quickfix.bike.5/about?section=contact-info&lst=100053075598564%3A100053075598564%3A1594075539)
+[Facebook](https://www.facebook.com/quickfix.bike.5)
 
 ## Twitter
 [Twitter](https://twitter.com/bike_quick)
