@@ -1,5 +1,5 @@
 ## Welcome to Quick Fix Bike
-!(https://imgur.com/JdHMuBo)
+[Imgur](https://imgur.com/JdHMuBo)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
