@@ -1,5 +1,5 @@
 # Welcome to Quick Fix Bike
-![Logo](https://i.imgur.com/0BiDQ0u.png)
+![Logo](https://i.imgur.com/rpyGz6A.png)
 
 ## About
 Hamilton-Based bike repair group dedicated to getting the community riding.
